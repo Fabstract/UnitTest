@@ -1,9 +1,9 @@
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/36798053?s=200&v=4"></p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/fabstract/assert"><img src="https://poser.pugx.org/fabstract/unit-test/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/fabstract/assert"><img src="https://poser.pugx.org/fabstract/unit-test/v/stable.svg" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/fabstract/assert"><img src="https://poser.pugx.org/fabstract/unit-test/license.svg" alt="License"></a>
+    <a href="https://packagist.org/packages/fabstract/unit-test"><img src="https://poser.pugx.org/fabstract/unit-test/d/total.svg" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/fabstract/unit-test"><img src="https://poser.pugx.org/fabstract/unit-test/v/stable.svg" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/fabstract/unit-test"><img src="https://poser.pugx.org/fabstract/unit-test/license.svg" alt="License"></a>
 </p>
 
 ## UnitTest
