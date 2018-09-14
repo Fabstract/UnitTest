@@ -100,4 +100,4 @@ and
     }
 ```
 
-You can add as many unit tests as you want, without worrying about a method's tests getting mixed up with other method\s tests.
+You can add as many unit tests as you want, without worrying about a method's tests getting mixed up with other method's tests.
