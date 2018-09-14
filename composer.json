@@ -1,0 +1,27 @@
+{
+  "name": "fabstract/unit-test",
+  "type": "library",
+  "description": "Unit test library on top of PHP Unit",
+  "keywords": [
+    "php",
+    "unit test",
+    "test"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmet Turk",
+      "email": "ahmetturk93@gmail.com",
+      "homepage": "https://github.com/fabstract"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fabstract\\Component\\UnitTest\\": "src"
+    }
+  },
+  "require": {
+    "php": "^7.1",
+    "phpunit/phpunit": "^7.0"
+  }
+}
