@@ -24,7 +24,7 @@ abstract class TestBase extends TestCase
         }
 
         if (is_object($object) !== true) {
-            throw new \Exception('object parameter is expected to be valid object, ' . get_class($object) . ' given');
+            throw new \Exception('object parameter is expected to be valid object, ' . gettype($object) . ' given');
         }
 
         $class = get_class($object);
